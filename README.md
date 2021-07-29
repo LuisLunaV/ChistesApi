@@ -1,13 +1,3 @@
-# Webpack Starter
-Este esl proyecto inicial para crear
-apliaciones utilizando webpack.
+# Chistes de chuck norris
+Aplicacion que se encarga de mostrar chistes randoom de chuck norris desde una API.
 
-### Notas:
-Recuerden reconstruir los modulos de Node
-```
-npm install
-```
-Y para construir el build, recuerden:
-```
-npm run build 
-``` 
